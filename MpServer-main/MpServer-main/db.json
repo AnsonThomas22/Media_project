@@ -1,0 +1,186 @@
+{
+  "users": [
+    {
+      "username": "user2",
+      "email": "rfsffs@gmail.com",
+      "password": "eeerrr",
+      "id": 1
+    },
+    {
+      "username": "user3",
+      "email": "rfswffs@gmail.com",
+      "password": "eeerrr",
+      "id": 2
+    },
+    {
+      "username": "Yadhu",
+      "email": "iamyadhu333@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "anson123",
+      "email": "ansonthomas@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "id": 2
+    },
+    {
+      "videoId": "2",
+      "title": "Deadpool 3 Trailer",
+      "imageUrl": "https://i.ytimg.com/vi/4N_KxIISRzw/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "id": 5
+    },
+    {
+      "videoId": "12",
+      "title": "COOK",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg",
+      "videoUrl": "https://www.youtube.com/embed/i8KuDon82KM?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "1",
+      "title": "Music",
+      "videos": [
+        {
+          "videoId": "3",
+          "title": "Tauba Tauba",
+          "imageUrl": "https://ca.billboard.com/media-library/vicky-kaushal-and-karan-aujla-tauba-taubaa-from-bad-newz.jpg?id=52824944&width=1200&height=600&coordinates=0%2C0%2C0%2C80",
+          "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+          "id": 4
+        },
+        {
+          "videoId": "12",
+          "title": "COOK",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg",
+          "videoUrl": "https://www.youtube.com/embed/i8KuDon82KM?si=wVmJVYmCf_X-YrNV&autoplay=1",
+          "id": 6
+        },
+        {
+          "videoId": "2",
+          "title": "Husn",
+          "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryId": "2",
+      "title": "Trailer",
+      "videos": [
+        {
+          "videoId": "2",
+          "title": "Deadpool 3 Trailer",
+          "imageUrl": "https://i.ytimg.com/vi/4N_KxIISRzw/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+          "id": 5
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryId": "12",
+      "title": "COOK",
+      "videos": [
+        {
+          "videoId": "12",
+          "title": "COOK",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg",
+          "videoUrl": "https://www.youtube.com/embed/i8KuDon82KM?si=wVmJVYmCf_X-YrNV&autoplay=1",
+          "id": 6
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryId": "12",
+      "title": "cooking",
+      "videos": [],
+      "id": 4
+    },
+    {
+      "categoryId": "123",
+      "title": "NATURE",
+      "videos": [],
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:07:01.392Z",
+      "id": 4
+    },
+    {
+      "videoId": "2",
+      "title": "Deadpool 3 Trailer",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:07:13.363Z",
+      "id": 5
+    },
+    {
+      "videoId": "2",
+      "title": "Deadpool 3 Trailer",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:11:38.641Z",
+      "id": 6
+    },
+    {
+      "videoId": "2",
+      "title": "Deadpool 3 Trailer",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:15:41.117Z",
+      "id": 7
+    },
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:19:30.765Z",
+      "id": 8
+    },
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:19:38.801Z",
+      "id": 9
+    },
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:20:30.843Z",
+      "id": 10
+    },
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:36:30.919Z",
+      "id": 11
+    },
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-20T14:41:48.433Z",
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+
+
+MEDIA PLAYER=== 
+
+npm install
+
+clear up 
+
+install react bootstrap
+
+React bootstrap-
+
+https://youtu.be/gJLVTKhTnog?si=xAZUUdeCIQ1CtDWg
+https://www.youtube.com/embed/gJLVTKhTnog?si=wVmJVYmCf_X-YrNV
+
+
+server - render
+frnt end - vercel
+
